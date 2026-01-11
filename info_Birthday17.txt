@@ -1,0 +1,1 @@
+hi Birthday17 your public ip is %IP%  
